@@ -1,0 +1,1 @@
+public record Catalog(int FirstId, int NextId, bool IsLastPage, IEnumerable<CatalogItem> Data);

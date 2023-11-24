@@ -10,6 +10,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "ApiGateway\Ap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasketService", "BasketService\BasketService.csproj", "{873CE4BE-72A8-41FA-B600-DD32D270C5AB}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogDb", "CatalogDb\CatalogDb.csproj", "{0AEAA7D1-F491-4AFE-9269-4AF47125F188}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{873CE4BE-72A8-41FA-B600-DD32D270C5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{873CE4BE-72A8-41FA-B600-DD32D270C5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{873CE4BE-72A8-41FA-B600-DD32D270C5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEAA7D1-F491-4AFE-9269-4AF47125F188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEAA7D1-F491-4AFE-9269-4AF47125F188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEAA7D1-F491-4AFE-9269-4AF47125F188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEAA7D1-F491-4AFE-9269-4AF47125F188}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
